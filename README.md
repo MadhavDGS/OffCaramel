@@ -1,6 +1,6 @@
 # OffCaramel by While(1) Studios
 
-![OffCaramel Interface](Screenshot%202025-04-06%20at%2010.36.28%20AM.png)
+![OffCaramel Interface](https://drive.google.com/file/d/18vphlzccbibmLk1cxYYjLHMzKEp2M-wF/view?usp=sharing)
 
 <div align="center">
   <img src="logo.png" alt="OffCaramel Logo" width="200"/>
@@ -18,7 +18,7 @@ OffCaramel is an innovative dual-project initiative that combines cutting-edge m
 
 ### Medical AI Platform Interface
 <div align="center">
-  <img src="Screenshot 2025-04-06 at 10.36.28 AM.png" alt="OffCaramel Medical Platform Interface" width="800"/>
+  <img src="https://drive.google.com/file/d/18vphlzccbibmLk1cxYYjLHMzKEp2M-wF/view?usp=sharing" alt="OffCaramel Medical Platform Interface" width="800"/>
   <p><i>OffCaramel's modern, user-friendly medical analysis interface with real-time AI detection</i></p>
 </div>
 
