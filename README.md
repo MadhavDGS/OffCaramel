@@ -1,5 +1,7 @@
 # OffCaramel by While(1) Studios
 
+![OffCaramel Interface](Screenshot%202025-04-06%20at%2010.36.28%20AM.png)
+
 <div align="center">
   <img src="logo.png" alt="OffCaramel Logo" width="200"/>
   <h3>Advanced Medical AI Platform & Interactive IoT Gaming Experience</h3>
