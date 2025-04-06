@@ -1,9 +1,7 @@
 # OffCaramel by While(1) Studios
 
-![OffCaramel Interface](https://drive.google.com/file/d/18vphlzccbibmLk1cxYYjLHMzKEp2M-wF/view?usp=sharing)
-
 <div align="center">
-  <img src="logo.png" alt="OffCaramel Logo" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=18vphlzccbibmLk1cxYYjLHMzKEp2M-wF" alt="OffCaramel Interface" width="800"/>
   <h3>Advanced Medical AI Platform & Interactive IoT Gaming Experience</h3>
 </div>
 
@@ -18,7 +16,7 @@ OffCaramel is an innovative dual-project initiative that combines cutting-edge m
 
 ### Medical AI Platform Interface
 <div align="center">
-  <img src="https://drive.google.com/file/d/18vphlzccbibmLk1cxYYjLHMzKEp2M-wF/view?usp=sharing" alt="OffCaramel Medical Platform Interface" width="800"/>
+  <img src="https://drive.google.com/uc?export=view&id=18vphlzccbibmLk1cxYYjLHMzKEp2M-wF" alt="OffCaramel Medical Platform Interface" width="800"/>
   <p><i>OffCaramel's modern, user-friendly medical analysis interface with real-time AI detection</i></p>
 </div>
 
@@ -111,8 +109,8 @@ Key dependencies:
 ### Medical AI Platform
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/offcaramel.git
-cd offcaramel
+git clone https://github.com/MadhavDGS/OffCaramel.git
+cd OffCaramel
 ```
 
 2. Install dependencies
